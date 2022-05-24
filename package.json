@@ -1,6 +1,7 @@
 {
   "name": "take-home-project",
   "version": "0.0.0",
+  "author": "Hamid Akhtar",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
